@@ -1,0 +1,17 @@
+﻿$cor-primaria: #819FF7;
+$cor-secundaria: #819FF7;
+$cor-button-pressed: #3104B4;
+
+.button {
+    position: center;
+    padding: 5px 10px 5px 10px;
+    background: $cor-primaria;
+    border:solid;
+    border-color: $cor-secundaria;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.button:hover{
+    background: $cor-button-pressed;
+}

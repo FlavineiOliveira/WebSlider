@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Content/Shared/Button/NewButton.css",
+    "inputFile": "Content/Shared/Button/NewButton.scss"
+  },
+  {
+    "outputFile": "Content/Shared/Slider/Slider.css",
+    "inputFile": "Content/Shared/Slider/Slider.scss"
+  },
+  {
+    "outputFile": "Scripts/Shared/Slider/Slider.es5.js",
+    "inputFile": "Scripts/Shared/Slider/Slider.js"
+  }
+]
